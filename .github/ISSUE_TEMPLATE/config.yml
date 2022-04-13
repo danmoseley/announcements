@@ -1,0 +1,32 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Issue with ASP.NET Core
+    url:  https://github.com/dotnet/aspnetcore/issues/new/choose
+    about: Please open issues relating to ASP.NET Core in dotnet/aspnetcore.
+  - name: Issue with .NET runtime or core .NET libraries
+    url:  https://github.com/dotnet/runtime/issues/new/choose
+    about: Please open issues relating to the .NET runtime or core .NET libraries in dotnet/runtime.
+  - name: Issue with .NET SDK
+    url:  https://github.com/dotnet/sdk/issues/new/choose
+    about: Please open issues relating to the .NET SDK in dotnet/sdk.
+  - name: Issue with Entity Framework
+    url:  https://github.com/dotnet/efcore/issues/new/choose
+    about: Please open issues relating to Entity Framework in dotnet/efcore.
+  - name: Issue with Roslyn compiler
+    url:  https://github.com/dotnet/roslyn/issues/new/choose
+    about: Please open issues relating to the Roslyn .NET compiler in dotnet/roslyn.
+  - name: Suggestion for the C# language
+    url:  https://github.com/dotnet/csharplang/issues/new/choose
+    about: Please open issues relating to the specification of the C# language in dotnet/csharplang.
+  - name: Issue with F#
+    url:  https://github.com/dotnet/fsharp/issues/new/choose
+    about: Please open issues relating to the F# language or tools in dotnet/fsharp.
+  - name: Issue with Windows Forms
+    url:  https://github.com/dotnet/winforms/issues/new/choose
+    about: Please open issues relating to Windows Forms in dotnet/winforms.
+  - name: Issue with WPF
+    url:  https://github.com/dotnet/wpf/issues/new/choose
+    about: Please open issues relating to WPF in dotnet/wpf.
+  - name: I don't know
+    url:  https://github.com/dotnet/core/issues/new/choose
+    about: If it doesn't fit any of the categories above.
