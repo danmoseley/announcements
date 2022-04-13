@@ -1,0 +1,10 @@
+---
+name: Please do not open issues in this repo
+description: Please do not open issues in this repo
+title: Please do not open issues in this repo
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please do not open issues in this repo
+---
